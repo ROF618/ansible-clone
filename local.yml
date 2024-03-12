@@ -21,7 +21,6 @@
          - "blender"
          - "brightnessctl"
          - "cmake"
-         - "code"
          - "conky"
          - "cronie"
          - "cronie-anacron"
